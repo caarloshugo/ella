@@ -1,17 +1,14 @@
 			<div class="clear"></div>
 			
 			<div id="footer">
-				<a href="http://acij.org.ar/" title="Asociacion civil por la justicia">
-					<img src="<?php print $this->themePath; ?>/css/images/acij.jpg" alt="ACIJ" />
+				<a href="http://fundar.org.mx" title="Practial action consulting">
+					<img src="<?php print $this->themePath; ?>/css/images/logo-practical-action.png" alt="Practial action consulting" />
 				</a>
-				<a href="http://fundar.org.mx" title="Fundar.org.mx">
-					<img src="<?php print $this->themePath; ?>/css/images/fundar.jpg" alt="Fundar.org.mx" />
+				<a href="http://fundar.org.mx" title="UK aid">
+					<img src="<?php print $this->themePath; ?>/css/images/logo-ukaid.png" alt="UK aid" />
 				</a>
-				<a href="http://internationalbudget.org/" title="International Budget Partnership">
-					<img src="<?php print $this->themePath; ?>/css/images/ibp.jpg" alt="International Budget Partnership" />
-				</a>
-				<a href="http://www.juridicas.unam.mx/inst/" title="Instituto de Investigaciones Jurídicas">
-					<img src="<?php print $this->themePath; ?>/css/images/unam.jpg" alt="Instituto de Investigaciones Jurídicas" />
+				<a href="http://fundar.org.mx/ella" title="ELLA">
+					<img src="<?php print $this->themePath; ?>/css/images/logo-ella.png" alt="ELLA" />
 				</a>
 			</div>
 		</div>

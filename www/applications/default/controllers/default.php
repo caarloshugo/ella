@@ -14,20 +14,18 @@ class Default_Controller extends ZP_Controller {
 		$this->Templates->theme();
 		
 		$this->users = array(
-			"horacio-corti"      => array("name" => "Horacio Corti", 	  "language" => "es"),
-			"martin-sigal"       => array("name" => "Martín Sigal", 	  "language" => "es"),
-			"mary-page"          => array("name" => "Mary R. Page", 	  "language" => "en", "gender" => true),
-			"helena-hofbauer"    => array("name" => "Helena Hofbauer", 	  "language" => "es", "gender" => true),
-			"sharon-bissell"     => array("name" => "Sharon Bissell Sotelo ", "language" => "en", "gender" => true),
-			"diego-morales"      => array("name" => "Diego Morales", 	  "language" => "es", "flight" => "MORALES-Diego"),
-			"sergio-chaparro"    => array("name" => "Sergio Chaparro", 	  "language" => "es", "flight" => "CHAPARRO-Sergio"),
-			"lucia-antunez"      => array("name" => "Lucía Antunez", 	  "language" => "es", "gender" => true, "flight" => "ANTUNEZPERCINC-LA-Dalile"),
-			"ivan-marcelo"       => array("name" => "Ivan Marcelo Borja", "language" => "es", "flight" => "BORJABORJA-Ivan-Marcelo"),
-			"mario-celada"       => array("name" => "Mario Celada", 	  "language" => "es", "flight" => "CELADA-Mario"),
-			"jorge-romano"        => array("name" => "Jorge Romano", 	  "language" => "es", "flight" => "ROMANO-Jorge"),
-			"jay-kruus"          => array("name" => "Jay Kruus",     	  "language" => "en", "flight" => "KRUUSE-Jay"),
-			"elizabeth-missokia" => array("name" => "Elizabeth Missokia", "language" => "en", "flight" => "MISSOKIA-Elizabeth"),
-			"john-mutua"		 => array("name" => "John Mutua", 		  "language" => "en", "flight" => "MUTUA-John")
+			"jasmina-brankovic" => array("name" => "Jasmina Brankovic", 	  				   "language" => "en"),
+			"moses-hategeka"    => array("name" => "Moses Hategeka", 	  					   "language" => "en"),
+			"nilima-rai" 	    => array("name" => "Nilima Rai", 	 				 		   "language" => "en"),
+			"ghislain-koffi"    => array("name" => "Ghislain Koffi Dodji Nyaku", 	  		   "language" => "en"),
+			"buddha-narayan"    => array("name" => "Buddha Narayan Sahani Kewat", 	 		   "language" => "en"),
+			"ronald-ssenfuka"   => array("name" => "Ronald Ssenfuka", 	  					   "language" => "en"),
+			"abu-bakar"  		=> array("name" => "Abu Bakar Siddique", 	  				   "language" => "en"),
+			"margaret-onwanyi"  => array("name" => "Margaret Onwanyi Onah", 	  			   "language" => "en"),
+			"syed-naeem"  		=> array("name" => "Syed Naeem Ather Abbas", 	  			   "language" => "en"),
+			"mukhtar-paras" 	=> array("name" => "Mukhtar Paras Shah", 	 				   "language" => "en"),
+			"venessa-claudette" => array("name" => "Venessa Claudette Thigesharee Padayachee", "language" => "en"),
+			"david-oluremi"     => array("name" => "David Oluremi Tola Winjobi", 	  		   "language" => "en", "flight" => "MORALES-Diego")
 		); 
 	}
 	
@@ -40,12 +38,20 @@ class Default_Controller extends ZP_Controller {
 		}
 	}
 	
+	
 	/*
-	horacio-corti      => Horacio Corti
-	martin-sigal       => Martín Sigal
-	diego-morales      => Diego Morales
-	sergio-chaparro    => Sergio Chaparro
-	jay-kruus          => Jay Kruus
-	elizabeth-missokia => Elizabeth Missokia 
+	jasmina-brankovic => Jasmina Brankovic
+	moses-hategeka    => Moses Hategeka
+	nilima-rai        => Nilima Rai
+	ghislain-koffi    => Ghislain Koffi Dodji Nyaku 
+	buddha-narayan    => Buddha Narayan Sahani Kewat
+	ronald-ssenfuka   => Ronald Ssenfuka
+	abu-bakar         => Abu Bakar Siddique
+	margaret-onwanyi  => Margaret Onwanyi Onah
+	syed-naeem        => Syed Naeem Ather Abbas
+	mukhtar-paras     => Mukhtar Paras Shah
+	venessa-claudette => Venessa Claudette Thigesharee Padayachee
+	david-oluremi     => David Oluremi Tola Winjobi
 	*/
+
 }

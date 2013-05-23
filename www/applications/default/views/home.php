@@ -12,7 +12,7 @@
 	
 	
 	<div class="section info">
-		<ul>
+		<ul>			
 			<li>
 				<a href="<?php print get('webURL'); ?>/documents/flights/itinerary-<?php echo $user_id;?>.pdf" title="Itinerary">Itinerary</a>
 			</li>
@@ -22,6 +22,19 @@
 					<a href="<?php print get('webURL'); ?>/documents/flights/itinerary-<?php echo $user_id;?>2.pdf" title="Itinerary 2">Itinerary 2</a>
 				</li>
 			<?php } ?>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/info/Important-pre-tour-information.pdf" title="Important pre-tour information">
+					Important pre-tour information
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/info/Study-tour-accommodations.pdf" title="Study tour accommodations">
+					Study tour accommodations
+				</a>
+			</li>
+			
 		</ul>
 		
 		<div class="section-icons-min">

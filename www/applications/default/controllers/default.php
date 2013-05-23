@@ -24,7 +24,8 @@ class Default_Controller extends ZP_Controller {
 			"margaret-onwanyi"  => array("name" => "Margaret Onwanyi Onah", 	  			   "language" => "en"),
 			"syed-naeem"  		=> array("name" => "Syed Naeem Ather Abbas", 	  			   "language" => "en"),
 			"mukhtar-paras" 	=> array("name" => "Mukhtar Paras Shah", 	 				   "language" => "en"),
-			"venessa-claudette" => array("name" => "Venessa Claudette Thigesharee Padayachee", "language" => "en")
+			"venessa-claudette" => array("name" => "Venessa Claudette Thigesharee Padayachee", "language" => "en"),
+			"david-tola" 		=> array("name" => "David Oluremi Tola Winjobi", 			   "language" => "en")
 		); 
 	}
 	

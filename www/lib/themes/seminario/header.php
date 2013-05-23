@@ -19,7 +19,7 @@
 				</h1>
 			</div>
 			
-			<a class="home logo" href="<?php print get('webURL'); ?>" title="Study Tour on Human rights Mexico">Study Tour on Human rights Mexico</a>
+			<a class="home logo" href="<?php print get('webURL'); ?>/<?php echo $user_id;?>" title="Study Tour on Human rights Mexico">Study Tour on Human rights Mexico</a>
 			
 			
 		

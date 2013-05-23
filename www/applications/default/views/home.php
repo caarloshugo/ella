@@ -105,7 +105,7 @@
 			
 			<li>
 				<a href="<?php print get('webURL'); ?>/documents/documents/Report-of-the-Special-Repporteur-on-the-Independence-of-Judges-and-Lawyers_Mission-to-Mexico_2010.pdf" title="Report of the Special Repporteur on the Independence of Judges and Lawyers_Mission to Mexico_2010">
-					Report of the Special Repporteur on the Independence of Judges and Lawyers_Mission to Mexico_2010
+					Report of the Special Repporteur on the Independence ...
 				</a>
 			</li>
 		</ul>

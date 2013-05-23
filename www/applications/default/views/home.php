@@ -102,6 +102,30 @@
 					Report of the Special Rapporteur - Mexico
 				</a>
 			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/documents/Mexico's-profile.pdf" title="Mexico's profile">
+					Mexico's profile
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/documents/Human-Rights-Situation-Mexico.pdf" title="Human Rights Situation Mexico">
+					Human Rights Situation Mexico
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/documents/National-Report-on-Human-Rights-submitted-to-the-UN.pdf" title="National Report on Human Rights submitted to the UN">
+					National Report on Human Rights submitted to the UN
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/documents/Cultural-Information-on-Mexico.pdf" title="Cultural Information on Mexico">
+					Cultural Information on Mexico
+				</a>
+			</li>
 		</ul>
 		
 		<div class="section-icons-min">

@@ -50,6 +50,36 @@
 					Report on the Human Rights Situation in Mexico
 				</a>
 			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/work/Note-taking.pdf" title="Note taking">
+					Note taking
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/work/Location-of-ST-activities.pdf" title="Location of ST activities">
+					Location of ST activities
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/work/Organisations-background-information.pdf" title="Organisations background information">
+					Organisations background information
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/work/Study-Tour-Programme.pdf" title="Study Tour Programme">
+					Study Tour Programme
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/work/Who-is-in-the-Tour.pdf" title="Who is in the Tour">
+					Who is in the Tour
+				</a>
+			</li>
 		</ul>
 		
 		

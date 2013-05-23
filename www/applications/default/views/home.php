@@ -1,6 +1,6 @@
 <div class="welcome">
 	<h2>
-		Welcome <?php echo $user["name"];?> to Study Tour on Human rights Mexico
+		Welcome <?php echo $user["name"];?> to Study Tour on Human Rights Mexico
 	</h2>
 </div>
 
@@ -44,13 +44,7 @@
 	</div>
 	
 	<div class="section trabajar">
-		<ul>
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/documents/Report-on-the-Human-Rights-Situation-in-Mexico.pdf" title="Report on the Human Rights Situation in Mexico">
-					Report on the Human Rights Situation in Mexico
-				</a>
-			</li>
-			
+		<ul>			
 			<li>
 				<a href="<?php print get('webURL'); ?>/documents/work/Note-taking.pdf" title="Note taking">
 					Note taking

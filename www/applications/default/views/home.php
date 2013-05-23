@@ -96,6 +96,18 @@
 					Report on the Human Rights Situation in Mexico
 				</a>
 			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/documents/Mexico's-Human-Rights-Crisis.pdf" title="Mexico's Human Rights Crisis">
+					Mexico's Human Rights Crisis
+				</a>
+			</li>
+			
+			<li>
+				<a href="<?php print get('webURL'); ?>/documents/documents/Report-of-the-Special-Repporteur-on-the-Independence-of-Judges-and-Lawyers_Mission-to-Mexico_2010.pdf" title="Report of the Special Repporteur on the Independence of Judges and Lawyers_Mission to Mexico_2010">
+					Report of the Special Repporteur on the Independence of Judges and Lawyers_Mission to Mexico_2010
+				</a>
+			</li>
 		</ul>
 		
 		<div class="section-icons-min">

@@ -13,14 +13,6 @@
 	
 	<div class="section info">
 		<ul>
-			<li class="doc">
-				<a href="<?php print get('webURL'); ?>/documents/info/Seminar_Program.docx" title="Program">Program</a>
-			</li>
-
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/info/Agenda_International_Participants.pdf" title="Agenda International Participants">Agenda International Participants</a>
-			</li>
-			
 			<li>
 				<a href="<?php print get('webURL'); ?>/documents/flights/itinerary-<?php echo $user_id;?>.pdf" title="Itinerary">Itinerary</a>
 			</li>
@@ -41,15 +33,9 @@
 	<div class="section trabajar">
 		<ul>
 			<li>
-				<a href="<?php print get('webURL'); ?>/documents/work/ACIJ-summary.pdf" title="ACIJ Summary">ACIJ Summary</a>
-			</li>
-			
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/work/LP-case-study-ACIJ.pdf" title="LP case study ACIJ">LP case study ACIJ</a>
-			</li>
-			
-			<li class="doc">
-				<a href="<?php print get('webURL'); ?>/documents/work/Amasango_write_up.docx" title="Amasango write up">Amasango write up</a>
+				<a href="<?php print get('webURL'); ?>/documents/documents/Report-on-the-Human-Rights-Situation-in-Mexico.pdf" title="Report on the Human Rights Situation in Mexico">
+					Report on the Human Rights Situation in Mexico
+				</a>
 			</li>
 		</ul>
 		
@@ -63,38 +49,8 @@
 	<div class="section documentos">
 		<ul>			
 			<li>
-				<a href="<?php print get('webURL'); ?>/documents/documents/Politicas-publicas-y-presupuestos-con-perspectiva-de-derechos-humanos-OACNUDH-et-al.pdf" title="Políticas públicas y presupuestos con perspectiva de derechos humanos OACNUDH">
-					Pol&iacute;ticas p&uacute;blicas y presupuestos con perspectiva de derechos humanos OACNUDH
-				</a>
-			</li>
-			
-			<li class="xls">
-				<a href="<?php print get('webURL'); ?>/documents/documents/Revision-bibliografica.xlsx" title="Revisión bibliográfica">
-					Revisi&oacute;n bibliogr&aacute;fica
-				</a>
-			</li>
-			
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/documents/Prevencion_de_incendios_en_escuelas_Cainfo.pdf" title="Prevención de incendios en escuelas Cainfo">
-					Prevenci&oacute;n de incendios en escuelas Cainfo
-				</a>
-			</li>
-			
-			<li class="link">
-				<a target="_blank" href="http://www.idasa.org/our_products/resources/output/monitoring_government_budgets_2/" title="Idasa, Monitoring government budgets to advance child rights">
-					Idasa, Monitoring government budgets to advance child rights
-				</a>
-			</li>
-			
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/documents/budget_guide_en.pdf" title="FAO, Budget work to advance the right to food 'Many a slip…'">
-					FAO, Budget work to advance the right to food 'Many a slip…'
-				</a>
-			</li>
-			
-			<li>
-				<a href="<?php print get('webURL'); ?>/documents/documents/Budget_and_rights.pdf" title="INESC, Budget and rights: developing a budget analysis method from the perspective of human rights">
-					INESC, Budget and rights: developing a budget analysis method from ...
+				<a href="<?php print get('webURL'); ?>/documents/documents/Report-on-the-Human-Rights-Situation-in-Mexico.pdf" title="Report on the Human Rights Situation in Mexico">
+					Report on the Human Rights Situation in Mexico
 				</a>
 			</li>
 		</ul>

@@ -135,7 +135,7 @@
 			
 			<li>
 				<a href="<?php print get('webURL'); ?>/documents/documents/mexico's-purrent-political-context.pptx" title="Mexico's Current Political Context 27052013">
-					Mexico's Current Political Context 27052013
+					Mexico's Current Political Context
 				</a>
 			</li>
 		</ul>

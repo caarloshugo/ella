@@ -35,6 +35,19 @@
 				</a>
 			</li>
 			
+			
+			<li>
+				<?php if(isset($user["type"])) { ?>
+					<a href="<?php print get('webURL'); ?>/documents/action-plan/action-plan-<?php echo $user_id;?>.<?php echo $user["type"]; ?>" title="Action Plan">
+						Action Plan
+					</a>
+				<?php } else { ?>
+					<a href="<?php print get('webURL'); ?>/documents/action-plan/action-plan-<?php echo $user_id;?>.docx" title="Action Plan">
+						Action Plan
+					</a>
+				<?php } ?>
+			</li>
+			
 		</ul>
 		
 		<div class="section-icons-min">

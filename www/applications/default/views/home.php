@@ -35,7 +35,6 @@
 				</a>
 			</li>
 			
-			
 			<li>
 				<?php if(isset($user["type"])) { ?>
 					<a href="<?php print get('webURL'); ?>/documents/action-plan/action-plan-<?php echo $user_id;?>.<?php echo $user["type"]; ?>" title="Action Plan">
@@ -44,6 +43,18 @@
 				<?php } else { ?>
 					<a href="<?php print get('webURL'); ?>/documents/action-plan/action-plan-<?php echo $user_id;?>.docx" title="Action Plan">
 						Action Plan
+					</a>
+				<?php } ?>
+			</li>
+			
+			<li>
+				<?php if(isset($user["type2"])) { ?>
+					<a href="<?php print get('webURL'); ?>/documents/internation-insurance/internation-insurance-<?php echo $user_id;?>.<?php echo $user["type2"]; ?>" title="Internation Insurance">
+						Internation Insurance
+					</a>
+				<?php } else { ?>
+					<a href="<?php print get('webURL'); ?>/documents/internation-insurance/internation-insurance-<?php echo $user_id;?>.pdf" title="Internation Insurance">
+						Internation Insurance
 					</a>
 				<?php } ?>
 			</li>

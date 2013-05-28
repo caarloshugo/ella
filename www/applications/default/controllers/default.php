@@ -15,17 +15,17 @@ class Default_Controller extends ZP_Controller {
 		
 		$this->users = array(
 			"jasmina-brankovic" => array("name" => "Jasmina Brankovic", 	  				   "language" => "en"),
-			"moses-hategeka"    => array("name" => "Moses Hategeka", 	  					   "language" => "en", "flight2" => true, "type" = "doc"),
+			"moses-hategeka"    => array("name" => "Moses Hategeka", 	  					   "language" => "en", "flight2" => true, "type" => "doc"),
 			"nilima-rai" 	    => array("name" => "Nilima Rai", 	 				 		   "language" => "en", "flight2" => true),
 			"ghislain-koffi"    => array("name" => "Ghislain Koffi Dodji Nyaku", 	  		   "language" => "en"),
 			"buddha-narayan"    => array("name" => "Buddha Narayan Sahani Kewat", 	 		   "language" => "en", "flight2" => true),
 			"ronald-ssenfuka"   => array("name" => "Ronald Ssenfuka", 	  					   "language" => "en", "flight2" => true),
-			"abu-bakar"  		=> array("name" => "Abu Bakar Siddique", 	  				   "language" => "en", "type" = "pdf"),
+			"abu-bakar"  		=> array("name" => "Abu Bakar Siddique", 	  				   "language" => "en", "type" => "pdf", "type2" => "JPG"),
 			"margaret-onwanyi"  => array("name" => "Margaret Onwanyi Onah", 	  			   "language" => "en"),
 			"syed-naeem"  		=> array("name" => "Syed Naeem Ather Abbas", 	  			   "language" => "en"),
 			"mukhtar-paras" 	=> array("name" => "Mukhtar Paras Shah", 	 				   "language" => "en"),
-			"venessa-claudette" => array("name" => "Venessa Claudette Thigesharee Padayachee", "language" => "en", "type" = "doc"),
-			"david-tola" 		=> array("name" => "David Oluremi Tola Winjobi", 			   "language" => "en")
+			"venessa-claudette" => array("name" => "Venessa Claudette Thigesharee Padayachee", "language" => "en", "type" => "doc"),
+			"david-tola" 		=> array("name" => "David Oluremi Tola Winjobi", 			   "language" => "en", "type2" => "JPG")
 		); 
 	}
 	
